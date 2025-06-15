@@ -1,0 +1,10 @@
+# robots.txt untuk cabalizer.com
+
+User-agent: *
+Disallow: /admin/
+Disallow: /json/
+Disallow: /config/
+Disallow: /private/
+Allow: /
+
+Sitemap: https://cabalizer.com/sitemap.xml
