@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./app.fe9b3764.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/guide/config.md"}'),c={name:"docs/guide/config.md"};function a(n,r,s,i,d,p){return o(),t("div")}const m=e(c,[["render",a]]);export{f as __pageData,m as default};
